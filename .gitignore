@@ -1,0 +1,16 @@
+# Los datos y las contraseñas se crean al ejecutar el sistema.
+/datos/
+/configuracion.properties
+
+# Archivos generados y dependencias de la distribución portátil.
+/build/
+/bin/
+/runtime/
+*.class
+*.log
+hs_err_pid*
+
+# Ajustes personales del editor.
+/.idea/
+/.vscode/
+*.iml
